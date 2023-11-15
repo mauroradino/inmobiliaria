@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=Kanit&display=swap');
+.navbar{
+    background-color: #001f3f;
+    justify-content: end;
+}
+.nav-link{
+    color: white;
+    font-family: 'Asap', sans-serif;
+}
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+.navbar-toggler{
+    background-color: #f9f7e8;
+}
+button{
+    width: auto !important;
+    margin: 0 10px !important;
+}

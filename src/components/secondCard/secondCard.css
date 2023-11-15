@@ -1,0 +1,135 @@
+.secondCard{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+@media(min-width: 1023px){
+    .cardText2{
+        background-color: rgb(194, 190, 190);
+        width: 35%;
+        height: 260px;
+        align-self: center;
+        z-index: 2;
+        position: relative;
+        right: 10%;
+    }
+    .FCimage2{
+        position: relative;
+        width: 40%;
+        z-index: 1;
+    }
+    .cardTitle2{
+        text-align: center;
+        font-size: 180%;
+        margin-top: 10px;
+    }
+    .cardContent2{
+        padding: 20px 20px;
+        margin-top: 10px;
+        font-weight: 150;
+        font-size: 120%;
+        text-align: start;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1022px){
+    .cardText2{
+        background-color: rgb(194, 190, 190);
+        width: 35%;
+        align-self: center;
+        height: 350px;
+        z-index: 2;
+        position: relative;
+    }
+    
+    .FCimage2{
+        position: relative;
+        width: 40%;
+        z-index: 1;
+    }
+    .cardTitle2{
+        text-align: center;
+        font-size: 180%;
+        margin-top: 10px;
+    }
+    .cardContent2{
+        padding: 20px 20px;
+        margin-top: 10px;
+        font-weight: 150;
+        font-size: 120%;
+        text-align: start;
+    }
+    .secondCard{
+        margin-top: 100px;
+        justify-content: center;
+    }
+}
+@media(min-width:600px) and (max-width:767px){
+    .cardText2{
+        background-color: rgb(194, 190, 190);
+        width: 70%;
+        margin: 0 auto;
+        height: 300px;
+        position: relative;
+        bottom: 310px;
+        padding-top: 5px;
+    }
+    .FCimage2{
+        width: 60%;
+        position: relative;
+        z-index: 2;
+        top: 80px;
+    }
+    .cardTitle2{
+        text-align: center;
+        font-size: 130%;
+        margin-top: 10px;
+    }
+    .cardContent2{
+        font-weight: 150;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 95%;
+        text-align: start;
+    }
+    .secondCard{
+        display: block;
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+}
+@media(max-width: 599px){
+    .cardText2{
+        background-color: rgb(194, 190, 190);
+        width: 70%;
+        margin: 0 auto;
+        height: 300px;
+        position: relative;
+        bottom: 310px;
+        padding-top: 5px;
+    }
+    .FCimage2{
+        width: 60%;
+        position: relative;
+        z-index: 2;
+        top: 50px;
+    }
+    .cardTitle2{
+        text-align: center;
+        font-size: 130%;
+        margin-top: 10px;
+    }
+    .cardContent2{
+        font-weight: 150;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 95%;
+        text-align: start;
+    }
+    .secondCard{
+        display: block;
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+}

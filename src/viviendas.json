@@ -1,0 +1,302 @@
+[
+    {
+      "_id": "652d90dedbc846586bfc6bc8",
+      "nombre": "Casa en Medanos",
+      "categoria": "Casa",
+      "precio": 220000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/fe589c7f-f7ee-4801-b8f6-18e67f83eb8e/860x440/3293f284-d934-4652-ae9f-219e2fad6929.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/fe589c7f-f7ee-4801-b8f6-18e67f83eb8e/860x440/f7c86149-71df-46d5-9d89-52a1b811d383.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/fe589c7f-f7ee-4801-b8f6-18e67f83eb8e/860x440/96c1e127-796c-4613-8dd6-f0c5bbb443d1.webp?",
+      "descripcion": "Se vende esta hermosa casa de dos plantas, situada en una zona residencial tranquila y segura. La propiedad tiene un living cocina comedor integrado, muy espacioso y luminoso. Cuenta con dos dormitorios cómodos y con placares, que comparten un baño completo con bañera. También tiene un lavadero con acceso al quincho, totalmente equipado con cocina, baño completo y parrilla. El quincho es ideal para realizar eventos sociales o familiares, ya que tiene capacidad para varias personas. En la planta alta, se encuentra la habitación principal, de gran tamaño y con balcón propio. Desde el balcón se puede disfrutar de una vista panorámica. La casa tiene una superficie total de 250 m2. Es una oportunidad imperdible para comprar una casa de ensueño en una de las mejores zonas residenciales."
+    },
+    {
+      "_id": "652d90de2687c6426de9e7af",
+      "nombre": "Casa en La Vacherie",
+      "categoria": "Casa",
+      "precio": 395000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/de093bff-7bbe-4f33-9cc4-38e312adb02e/860x440/b9747a85-e191-429b-8480-9c7155962567.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/de093bff-7bbe-4f33-9cc4-38e312adb02e/860x440/81f4439d-c894-43d2-adca-65ec1c0a7e5c.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/de093bff-7bbe-4f33-9cc4-38e312adb02e/860x440/07f154a4-712f-493a-ad6a-b4eb98eb0e9c.webp?",
+      "descripcion": "La misma se encuentar desarrollada en 2 plantas , hall de ingreso, living-comedor, cocina comedor, lavanderia , galeria y churrasquera en planta baja ademas de un gran jardin y Pileta Ademas posee 3 habitaciones con 2 baños y 1 toillette."
+    },
+    {
+      "_id": "652d90de87256087dc29788f",
+      "nombre": "Depto. en Almagro",
+      "categoria": "Departamento",
+      "precio": 79900,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/d01f5c86-de8c-443a-86ba-b412699b5838/860x440/d4715278-26c5-4acb-a47c-680d7f7bb610.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/d01f5c86-de8c-443a-86ba-b412699b5838/860x440/77141207-9549-4ec3-9cf0-f51ef7cb1f59.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/d01f5c86-de8c-443a-86ba-b412699b5838/860x440/568519ad-13be-4f99-80c4-af7d0862a55d.webp?",
+      "descripcion": "Ubicado sobre la tranquila calle Humahuaca a dos cuadras de Av Corrientes, con muy buenos accesos al transporte. EL departamento es al frente con salida al balcon que tiene una vista super abierta ya que da a la iglesia Santuario Jesús Sacramentado, por lo cuál, no hay posibilidades de perder la vista y la luminosidad de la propiedad"
+    },
+    {
+      "_id": "652d90ded647af6b3238aade",
+      "nombre": "Depto. en Cardinales B. Gral Paz",
+      "categoria": "Departamento",
+      "precio": 83000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/d9919cc4-f652-48f4-885c-bf90bd5dd579/860x440/b716bf15-5eb0-4042-8992-429f9ae37f97.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/d9919cc4-f652-48f4-885c-bf90bd5dd579/860x440/266aaa0b-e72a-4d92-ab70-ca08c5619e90.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/d9919cc4-f652-48f4-885c-bf90bd5dd579/860x440/eed18966-a19a-4cc6-934e-27bf5e0dc40a.webp?",
+      "descripcion": "Se vende departamento amplio y luminoso con hermosas vistas. La unidad cuenta con 50m2 cubiertos propios, 14m2 de uso comun. Plan cancelado."
+    },
+    {
+      "_id": "652d90de9a72b3b4d25635ed",
+      "nombre": "Casa en Costa Esmeralda",
+      "categoria": "Casa",
+      "precio": 280000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/d9919cc4-f652-48f4-885c-bf90bd5dd579/860x440/eed18966-a19a-4cc6-934e-27bf5e0dc40a.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/a1b4c7b9-d89b-4520-8fe1-f929d4437cd0/860x440/24079e8f-fa59-4400-a6be-0704fcb0b812.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/a1b4c7b9-d89b-4520-8fe1-f929d4437cd0/860x440/6c9c156f-5f50-4269-a278-06754c05a145.webp?",
+      "descripcion": "Casa a estrenar en Costa Esmeralda oportunidad ofrecemos a la venta esta casa a estrenar, terminada en diciembre 2022, en el barrio Senderos 3 Lote 198 de Costa Esmeralda. Retasada en octubre 2023 por mudanza al exterior."
+    },
+    {
+      "_id": "652d90de50fdd89731a70ff8",
+      "nombre": "Depto. en Balvanera",
+      "categoria": "Departamento",
+      "precio": 133000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/cc4417d4-fd5d-4643-805a-8df26a72ce9d/860x440/05d2d8f6-d676-454f-9e4e-40064299e014.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/cc4417d4-fd5d-4643-805a-8df26a72ce9d/860x440/694cdc8a-cb4d-4b9a-92a2-b121f6620e15.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/cc4417d4-fd5d-4643-805a-8df26a72ce9d/860x440/694cdc8a-cb4d-4b9a-92a2-b121f6620e15.webp?",
+      "descripcion": "Área caracterizada por un tejido urbano consolidado, con centros de salud"
+    },
+    {
+      "_id": "652d90de70bf37d16ca113e4",
+      "nombre": "Casa en Luis Guillon",
+      "categoria": "Casa",
+      "precio": 110000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/5929cb8c-54f8-4956-ad13-5e5b1694b6b7/860x440/d0132163-7620-4a8b-b349-2d291a4fc475.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/5929cb8c-54f8-4956-ad13-5e5b1694b6b7/860x440/35bb482d-2400-42d3-92c2-96a4f47d4cab.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/5929cb8c-54f8-4956-ad13-5e5b1694b6b7/860x440/35bb482d-2400-42d3-92c2-96a4f47d4cab.webp?",
+      "descripcion": "Ubicada sobre la calle Mendoza al 800 sobre un lote de 300 m2. Excelente ubicación a 5 cuadras de Avenida Boulevard Bs As."
+    },
+    {
+      "_id": "652d90deb1f2db5ac57a0be0",
+      "nombre": "Casa en City Bell",
+      "categoria": "Casa",
+      "precio": 130000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/64a0dc86-4383-49c5-9ae2-03b04ff2108b/860x440/92910810-2782-4e9c-984a-cf3425829aeb.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/64a0dc86-4383-49c5-9ae2-03b04ff2108b/860x440/d6ad3029-7fb2-4698-be9d-c8912667a38c.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/64a0dc86-4383-49c5-9ae2-03b04ff2108b/860x440/e7605835-3182-487c-a14b-cab40ef584cb.webp?",
+      "descripcion": "Casa estilo chalet de tejas coloniales, sobre amplio terreno en esquina de mas de 1.500m2 de superficie."
+    },
+    {
+      "_id": "652d90dee74b5b8800813673",
+      "nombre": "Depto en Villa Urquiza",
+      "categoria": "Departamento",
+      "precio": 150000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/9143074c-5a66-41d4-aae6-381735fceaa2/860x440/b6763961-ee63-4dd6-975a-0f1efada91c7.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/9143074c-5a66-41d4-aae6-381735fceaa2/860x440/b6763961-ee63-4dd6-975a-0f1efada91c7.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/9143074c-5a66-41d4-aae6-381735fceaa2/860x440/8a1e43c6-a1d6-457a-a190-72c7f806a676.webp?",
+      "descripcion": "Hermoso Semipiso a Estrenar de tres ambientes.2 Baños y Balcón Corrido, EXCELENTE SEMIPISO CON PALIER PRIVADO, HALL DE RECEPCION,"
+    },
+    {
+      "_id": "652d90de99b3bfe59de9aabc",
+      "nombre": "Casa en Escobar",
+      "categoria": "Casa",
+      "precio": 425000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/7530018e-2295-4109-8848-b65c8d381575/860x440/507d485d-aabc-4a8e-92d0-3d63790ea6bc.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/7530018e-2295-4109-8848-b65c8d381575/AUTOx860/993c04d8-1b72-4919-914f-58bbf4662f3b.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/7530018e-2295-4109-8848-b65c8d381575/AUTOx860/141fb0f3-ee68-433f-8b3d-17b8b58482fe.webp?",
+      "descripcion": "Única Casa de diseño exclusivo y calidad constructiva de alta gama, sobre privilegiado lote de casi 900 mts"
+    },
+    {
+      "_id": "652d90de7b511ba02b197264",
+      "nombre": "Casa en Arturo Segui",
+      "categoria": "Casa",
+      "precio": 60000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/ce1632b6-60ab-47b3-b5e9-7196e4abe8c5/860x440/8d8b1c06-81c1-4017-9836-f1126feb237a.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/ce1632b6-60ab-47b3-b5e9-7196e4abe8c5/860x440/392b2f06-4480-492b-b734-107bdcdf4485.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/ce1632b6-60ab-47b3-b5e9-7196e4abe8c5/860x440/6c5e7614-30c8-4fc8-b814-9eac724f39a6.webp?",
+      "descripcion": "Casa desarrollada sobre lote de 10x30. la misma es de dos plantas , en PB living comedor con parrilla , cocina semiintegrada , baño completo."
+    },
+    {
+      "_id": "652d90deaf91311544fe4da0",
+      "nombre": "Casa en La Plata",
+      "categoria": "Casa",
+      "precio": 330000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/e71175f7-e2fa-49e2-810a-fb5bfce91042/860x440/c856904e-aedc-404e-a79a-842a225fd6c9.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/e71175f7-e2fa-49e2-810a-fb5bfce91042/860x440/f5c34061-ef15-4333-b35f-3758258f2ebb.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/e71175f7-e2fa-49e2-810a-fb5bfce91042/860x440/05762289-2465-427f-ab36-e4c24db8162b.webp?",
+      "descripcion": "Hermosa Casa construida con solidez en de 2 plantas y con excelentes terminaciones, aberturas doble vidrio."
+    },
+    {
+      "_id": "652d90dec054fd258c8bf895",
+      "nombre": "Casa en Nordelta",
+      "categoria": "Casa",
+      "precio": 24000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/ca2eda2d-f376-478e-8011-9289d9caabe8/860x440/c0361cf8-f08d-48a9-9eec-d7fc1ab851b2.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/ca2eda2d-f376-478e-8011-9289d9caabe8/860x440/6dd5aa05-28dd-465c-b9e5-e80e866907b6.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/ca2eda2d-f376-478e-8011-9289d9caabe8/860x440/87b0a27c-e655-4bd1-973b-bea1bbd8ba08.webp?",
+      "descripcion": "DESARROLLADA EN COMPLEJO DE 20 UNIDADES , CON ACCESO UNICO. CADA UNIDAD CUENTA CON 34 MTS2 CUBIERTOS, CON PATIO PROPIO DE 17 MTRS2"
+    },
+    {
+      "_id": "652d90de703c716ff2427984",
+      "nombre": "Casa en Moreno",
+      "categoria": "Casa",
+      "precio": 73000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/a68b6f3b-acb0-4827-ade4-7a24f014d569/860x440/17c9d2fc-fbcd-4ce6-9a5d-5b31e2a7c23d.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/a68b6f3b-acb0-4827-ade4-7a24f014d569/860x440/6df4c9b1-f68b-43e5-82fa-af128b6c958c.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/a68b6f3b-acb0-4827-ade4-7a24f014d569/860x440/6df4c9b1-f68b-43e5-82fa-af128b6c958c.webp?",
+      "descripcion": "UBICADA A 5 CUADRAS ESTACION LA REJA VARIAS LÍNEAS DE COLECTIVOS"
+    },
+    {
+      "_id": "652d90de0fc53f13bcb24c88",
+      "nombre": "Casa en Castelar",
+      "categoria": "Casa",
+      "precio": 370000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/8077829c-7bcb-41dd-a647-81873f3a4011/860x440/2d271070-2f24-43f3-a608-4ce205d49d11.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/8077829c-7bcb-41dd-a647-81873f3a4011/860x440/0260b03c-a96b-4b3a-95f8-ff3ffd5a4109.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/8077829c-7bcb-41dd-a647-81873f3a4011/860x440/e281b1fe-2567-4f7f-9dc1-6c6ae204c9af.webp?",
+      "descripcion": "Amplia casa de 6 ambientes con ubicación privilegiada sobre la calle Italia, entre las calles Crisologo Larralde y General Machado."
+    },
+    {
+      "_id": "652d90de07d9129e0761d70f",
+      "nombre": "Depto. en Flores",
+      "categoria": "Departamento",
+      "precio": 80000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/8e49b42b-3f5c-400b-b084-ac708f5bcd7a/860x440/405d50b0-463a-41d8-a217-36f27cd94c28.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/8e49b42b-3f5c-400b-b084-ac708f5bcd7a/860x440/2a6219cb-6ee3-439f-9d68-dab3e73882f5.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/8e49b42b-3f5c-400b-b084-ac708f5bcd7a/860x440/2a6219cb-6ee3-439f-9d68-dab3e73882f5.webp?",
+      "descripcion": "Departamento ubicado en el 6° Piso. Frente sobre la calle Camacua 331."
+    },
+    {
+      "_id": "652d90de872e2baa8611ed5d",
+      "nombre": "Depto. en Rosario",
+      "categoria": "Departamento",
+      "precio": 37400,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/2bc92f6b-cec6-4b98-8bf2-746159fd61ad/860x440/11603202-2df9-4b56-95c6-6b33c8f1836b.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/2bc92f6b-cec6-4b98-8bf2-746159fd61ad/860x440/f1fc5452-4a86-4b3e-a2e8-2fe44dddfc6e.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/2bc92f6b-cec6-4b98-8bf2-746159fd61ad/860x440/f1fc5452-4a86-4b3e-a2e8-2fe44dddfc6e.webp?",
+      "descripcion": "VENTA - DEPARTAMENTO EN ZONA DE GRAN POTENCIAL DE ROSARIO CON BALCÓN. MALVINAS 531, ENTRE URQUIZA Y SAN LORENZO, PROXIMO A AVELLANEDA."
+    },
+    {
+      "_id": "652d90deb3c7f28d4960e58e",
+      "nombre": "Casa en San Lorenzo",
+      "categoria": "Casa",
+      "precio": 85000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/325350d3-3e7d-4a12-a56f-05f4cebe120e/860x440/700faa90-5e24-4021-80b6-bcb06a554cb9.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/325350d3-3e7d-4a12-a56f-05f4cebe120e/860x440/b6fdada0-4af3-42c6-9b50-881419412d39.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/325350d3-3e7d-4a12-a56f-05f4cebe120e/860x440/afe75cae-1c1d-497a-b27a-0ef48c2de496.webp?",
+      "descripcion": "VENTA - Casa en Tierra de Sueños 3, sobre avenida principal Alicia M Justo."
+    },
+    {
+      "_id": "652d90ded75abebc7e605104",
+      "nombre": "Casa en Cañuelas",
+      "categoria": "Casa",
+      "precio": 490000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/a1d7c66c-77d8-46aa-96e4-3f78bfbca329/860x440/edb4abc4-e892-40b5-a35e-4033ff80b576.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/a1d7c66c-77d8-46aa-96e4-3f78bfbca329/860x440/a7fbc7f9-813b-488e-90ee-0382379290a6.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/a1d7c66c-77d8-46aa-96e4-3f78bfbca329/860x440/b0acf7b6-911a-4539-9bfe-7f9d56acba42.webp?",
+      "descripcion": "Casa de hormigón a la vista, emplazada sobre un terreno de 12.900 m2, ubicada en el barrio cerrado Chacras de la Trinidad"
+    },
+    {
+      "_id": "652d90def03da113fded9240",
+      "nombre": "Casa en Parque Chass",
+      "categoria": "Casa",
+      "precio": 169000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/bd18cae0-3423-4375-98ac-17fd2de3cc72/860x440/a20dfe79-7433-47c4-b748-f592da43e576.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/bd18cae0-3423-4375-98ac-17fd2de3cc72/860x440/0b12741e-55c5-47d1-99ef-1f35964628fc.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/bd18cae0-3423-4375-98ac-17fd2de3cc72/860x440/ad6bcee1-f469-4c29-81c9-8e9fb4519c08.webp?",
+      "descripcion": "Casa en venta sobre LOTE PROPIO de 3 o 4 ambientes con y patio y terraza"
+    },
+    {
+      "_id": "652d90dee3b5a244c06db6df",
+      "nombre": "Depto en Mar del Plata",
+      "categoria": "Departamento",
+      "precio": 130000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/b4d57327-29ae-4398-9ba2-887333fc98c8/860x440/9e81359f-5a4b-4299-8414-0428f20e77af.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/b4d57327-29ae-4398-9ba2-887333fc98c8/860x440/c4ba2b94-fd7f-4760-b05f-52276f3a1441.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/b4d57327-29ae-4398-9ba2-887333fc98c8/860x440/a2a46892-337a-4ca2-a4e2-ffb22db10afe.webp?",
+      "descripcion": "En esta ocasión el equipo de Remax Acqua nos presenta este magnífico chalet en pleno corazón de Caisamar de 5 ambientes"
+    },
+    {
+      "_id": "652d90de04736d10e39073ea",
+      "nombre": "Depto. en Lanús",
+      "categoria": "Departamento",
+      "precio": 77000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/b2714bc9-8f3e-408b-9063-113d04f2bae2/860x440/ee68e01a-1f93-4da2-b087-4e194436bdfb.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/b2714bc9-8f3e-408b-9063-113d04f2bae2/860x440/d2f7a173-45b2-4497-91e0-b38d832de948.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/b2714bc9-8f3e-408b-9063-113d04f2bae2/860x440/0a84f369-085b-43a4-830d-05e449572314.webp?",
+      "descripcion": "Dpto. de 2 ambientes en LANUSITA, a 2 cuadras de Avda. Hipólito Irigoyen, en Carlos Tejedor casi esquina Dr Melo."
+    },
+    {
+      "_id": "652d90dee9733e62bc78ebbe",
+      "nombre": "Depto. en Villa Crespo",
+      "categoria": "Departamento",
+      "precio": 239000,     
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/40d151d1-9bc3-4404-ae67-8571c5d99710/860x440/0e9843cd-dbb3-4874-b1c5-188e3f5f593c.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/40d151d1-9bc3-4404-ae67-8571c5d99710/860x440/7f1400d2-5729-493a-bf08-eaa5d3c33f8d.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/40d151d1-9bc3-4404-ae67-8571c5d99710/860x440/a0d56ac7-6c5e-4c82-b81e-1678babc9369.webp?",
+      "descripcion": "VENTA DISTINGUIDO PISO , 4 MBIENTES MAS DEPENDENCIA DE SERVICIO, 144 M2"
+    },
+    {
+      "_id": "652d90de4e7a5823c3b3050f",
+      "nombre": "Depto. en Ramos Mejía",
+      "categoria": "Casa",
+      "precio": 74900,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/5ced5b1d-0122-49e1-9c9c-7cd72b4c00b2/860x440/46324f65-ee6a-4113-8cc6-c6860f529801.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/5ced5b1d-0122-49e1-9c9c-7cd72b4c00b2/860x440/6f3113ad-622e-48e5-9f48-afdcd8af9d76.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/5ced5b1d-0122-49e1-9c9c-7cd72b4c00b2/860x440/e42fccb3-df0d-4d68-8064-832ca39c4ccf.webp?",
+      "descripcion": "VENTA DEPARTAMENTO 2 AMBIENTES RAMOS MEJIA PATIO TODO PLANTA BAJA, AL FRENTE,CON GARAGE Y MUY LUMINOSO SIN EXPENSAS"
+    },
+    {
+      "_id": "652d90de68657f10d1ddcff3",
+      "nombre": "Vivienda",
+      "categoria": "Departamento",
+      "precio": 285000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/ac98c344-8e00-47d5-8053-342dd365567e/860x440/434e0a0e-2feb-466a-b81b-cfeebe423f5f.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/ac98c344-8e00-47d5-8053-342dd365567e/860x440/aeb5ee61-16ba-4a6f-954e-080bb05ac37e.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/ac98c344-8e00-47d5-8053-342dd365567e/860x440/aeb5ee61-16ba-4a6f-954e-080bb05ac37e.webp?",
+      "descripcion": "Venta departamento en semipiso de 4 ambientes - Nuevo a estrenar en Recoleta"
+    },
+    {
+      "_id": "652d90debca01375ddc40737",
+      "nombre": "Depto. en Recoleta",
+      "categoria": "Casa",
+      "precio": 230000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/837051be-0447-45cf-9408-161ceb3fad15/860x440/409320fb-59d1-4735-a0b2-40c7b23875b2.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/837051be-0447-45cf-9408-161ceb3fad15/860x440/194abae8-cc35-45be-acd2-641cd06880dd.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/837051be-0447-45cf-9408-161ceb3fad15/860x440/bda1bff1-8e7e-4f24-a0a4-e6af5c161057.webp?",
+      "descripcion": "Descubre este espectacular Triplex de 4 ambientes en San Fernando, ¡la opción perfecta para aquellos que buscan una vida cómoda y sofisticada en un lugar privilegiado!"
+    },
+    {
+      "_id": "652d90de6f896a1ddc8c0989",
+      "nombre": "Depto. en Bernal",
+      "categoria": "Departamento",
+      "precio": 110000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/c6e37082-6b96-46b9-a392-25f011c87941/860x440/fa12d7c3-0d15-478f-a305-71165526e1c4.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/c6e37082-6b96-46b9-a392-25f011c87941/860x440/f8520520-3d92-4dff-81ec-bd547dcabc82.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/c6e37082-6b96-46b9-a392-25f011c87941/860x440/4d55830a-8c3c-473b-86e7-aa565c025ce4.webp?",
+      "descripcion": "Departamento 2 Ambientes a estrenar Full Amenities"
+    },
+    {
+      "_id": "652d90de07d353c66485dcbd",
+      "nombre": "Depto. en Almagro",
+      "categoria": "Departamento",
+      "precio": 135000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/4fc1e5f5-9170-47ab-8f74-45f1f5316e54/860x440/48b0ff97-4cf5-4e7f-8d32-d6f6a2cdc2e4.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/4fc1e5f5-9170-47ab-8f74-45f1f5316e54/860x440/56495993-1eed-4733-8807-eb77123afe06.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/4fc1e5f5-9170-47ab-8f74-45f1f5316e54/860x440/fbb09c5c-03c6-48aa-9df0-8a242f0af192.webp?",
+      "descripcion": "Departamento 4 Ambientes con Balcon y Baulera."
+    },
+    {
+      "_id": "652d90de4691406d690218ec",
+      "nombre": "Casa en Colegiales",
+      "categoria": "Casa",
+      "precio": 110000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/a07a3284-6e21-459e-95f8-9641fe7da281/860x440/d0132163-7620-4a8b-b349-2d291a4fc475.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/a07a3284-6e21-459e-95f8-9641fe7da281/860x440/35bb482d-2400-42d3-92c2-96a4f47d4cab.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/a07a3284-6e21-459e-95f8-9641fe7da281/860x440/3f5c44f7-012d-4650-8952-bf499d6e52cf.webp?",
+      "descripcion": "VENTA CASA DE 4 AMBIENTES. Ubicada sobre la calle Mendoza al 800 sobre un lote de 300 m2. Excelente"
+    },
+    {
+      "_id": "652d90dedd767909daafb1fc",
+      "nombre": "Casa en Monte Grande",
+      "categoria": "Casa",
+      "precio": 65000,
+      "imagen1": "https://d1acdg20u0pmxj.cloudfront.net/listings/6ced9887-26ad-4b65-9dd8-deff0209aba2/860x440/5773e188-2079-4d32-abc4-b767afab6f33.webp?",
+      "imagen2": "https://d1acdg20u0pmxj.cloudfront.net/listings/6ced9887-26ad-4b65-9dd8-deff0209aba2/860x440/40140b53-9495-439d-b209-844a080ca224.webp?",
+      "imagen3": "https://d1acdg20u0pmxj.cloudfront.net/listings/6ced9887-26ad-4b65-9dd8-deff0209aba2/860x440/ad9bd2ab-93b0-416e-90e1-80708d2a4f8f.webp?",
+      "descripcion": "CASA 3 AMBIENTES VENTA MONTE GRANDE CON PARQUE"
+    }
+  ]

@@ -1,0 +1,57 @@
+.bodyVender{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ebe2e2;
+}
+.inputVenderGroup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 25% 25%;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    gap: 10px;
+    width: 50%;
+}
+.venderTitle{
+    padding-top: 30px;
+    text-align: center;
+}
+input{
+    border: 1px solid black; 
+    border-radius: 5px;
+    padding: 10px;
+}
+.divCantidades {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  label{
+    text-align: start;
+    font-weight: 500;
+  }
+  .inputPrecio{
+    margin-bottom: 20px;
+  }
+  .inputNumber  {
+    width: 50px;
+    margin-left: 10px;
+  }
+  
+.btnVender{
+    color: white;
+    margin: 35% 35% !important;
+    margin-top: 30px !important;
+    background-color: #001f3f;
+    width: 30% !important;
+    font-size: 15px;
+    padding: 15px;
+}
+.inputDescripcion{
+    height: 100px;
+}

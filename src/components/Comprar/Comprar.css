@@ -1,0 +1,121 @@
+.ulFiltro{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    align-items: start;
+    gap: 10px;
+}
+.liFiltro{
+    display: flex;
+    align-items: start;
+}
+.inputPrecios{
+    margin-left: 10px;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+.liFiltroPrecios{
+    display: flex;
+    align-items: start;
+    margin-top: 20px;
+    margin-left: 0px !important;
+}
+.btnFiltroPrecios{
+    background-color: #001f3f;
+    color: white;
+    border: none;
+    margin: 0 !important;
+}
+.btnFiltroPrecios:hover{
+    background-color: #001f3f;
+    color: white;
+}
+.comprar-title{
+    text-align: center;
+    color: #001f3f;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.navPaginate{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.page-link{
+    background-color: #001f3f;
+    color: white;
+}
+.main{
+    display: flex;
+}
+.rangoPrecios{
+    display: flex;
+    height: 30px;
+    width: 220px;
+}
+.grupoViviendas{
+    width: max-content;
+}
+.inputPrecios{
+    width: 100px;
+}
+.form-check-input{
+    margin-left: 1px !important;
+    padding-left: 0px !important;
+}
+.pFiltro{
+    width: 150px;
+    display: flex;
+}
+.form-switch .form-check-input {
+    width: 2em;
+    margin-left: -2.5em;
+    border-radius: 7px !important;
+    width: 50px;
+    height: 20px;
+}   
+.card{
+    background-color: #001f3f;
+    color: white;
+}
+@media (max-width: 767px){
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .body{
+        background-color: #ebe2e2;
+    }
+    .grid{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100vw;
+    }
+    .card{
+        width: 60%;
+        margin-top: 20px;
+        background-color: #001f3f;
+        color: white;
+    }
+}
+@media(min-width: 768px) and (max-width: 1023px){
+    .grid{
+        display: grid;
+        grid-template-columns: 30% 30%;
+        margin-right: 40px;
+        margin-top: 40px;
+        gap: 20px;
+        justify-content: end;
+    }
+}
+@media (min-width: 1024px){
+    .grid{
+        display: grid;
+        grid-template-columns: 20% 20% 20%;
+        margin-right: 40px;
+        margin-top: 40px;
+        gap: 20px;
+        justify-content: center;
+    }
+}
